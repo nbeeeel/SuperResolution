@@ -1,0 +1,8 @@
+super-image
+lpips
+datasets
+torchmetrics
+matplotlib
+PIL
+numpy
+pandas
